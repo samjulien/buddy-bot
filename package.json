@@ -1,0 +1,17 @@
+{
+  "name": "buddy-bot",
+  "version": "1.0.0",
+  "description": "A bot for the Angular Buddies Slack.",
+  "main": "lib/buddybot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Julien",
+  "license": "MIT",
+  "dependencies": {
+    "slackbots": "^0.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  }
+}
