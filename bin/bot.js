@@ -1,6 +1,6 @@
 'use strict';
 
-var BuddyBot = require('../lib/buddybot');
+var BuddyBot = require('../lib/buddybot-compiled');
 
 var token = process.env.BOT_API_KEY;
 var name = process.env.BOT_NAME;
