@@ -7,7 +7,7 @@ BuddyBot is a tiny Slack bot written for the [Angular Buddies Slack](http://www.
 I wanted to keep this as ligthweight as possible, so there are no build tools or anything.  You will need Babel to compile the ES6 prior to deployment. Babel 6 came out around the same time I wrote this, so it is configured for that version.
 
 ```sh
-npm install --g babel-cli
+npm install -g babel-cli
 ```
 
 To run, you can use either node or nodemon (in the dev dependencies) after compilation.
