@@ -1,6 +1,9 @@
 {
   "name": "buddy-bot",
   "version": "1.0.0",
+  "engines":{
+    "node":"0.12.7"
+  },
   "description": "A bot for the Angular Buddies Slack.",
   "main": "lib/buddybot.js",
   "scripts": {
