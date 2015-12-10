@@ -1,5 +1,7 @@
 # BuddyBot
 
+**Update:** So, it turns out the way the slackbots library handles promises is kind of broken. I'm looking into different libraries to get this working properly.
+
 BuddyBot is a tiny Slack bot written for the [Angular Buddies Slack](http://www.angularbuddies.com/). Right now it simply welcomes a new user in the channel and points them to a GitHub gist of FAQs and a Code of Conduct. BuddyBot joins #general by default, but you can invite it to another channel to perform the same behavior.
 
 ### Installation
